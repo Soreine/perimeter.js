@@ -16,9 +16,6 @@
     "type": "git",
     "url": "git://github.com/e-sites/perimeter.js.git"
   },
-  "engines": {
-    "node": "~0.8.0"
-  },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.2.0",
     "grunt-contrib-uglify": "~0.1.1",
